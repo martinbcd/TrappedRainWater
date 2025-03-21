@@ -1,2 +1,2 @@
 # TrappedRainWater
- leet code Trapping Rain Water problem 
+ Leet code: Trapping Rain Water problem 
